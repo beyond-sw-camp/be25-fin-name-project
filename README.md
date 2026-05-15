@@ -26,6 +26,7 @@ IDMS는 Integrated Defense Maintenance System의 약자로서, 방산 장비를 
 
 <section id="summary">
 <h2>1. 프로젝트 요약</h2>
+
 |항목|내용|
 |---|---|
 |작업자|김승욱|
