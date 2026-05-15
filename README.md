@@ -2,7 +2,6 @@
 <main class="container">
   <h1>IDMS - 방산 장비 통합 유지보수 관리 시스템</h1>
   
-<div class="card">
   <h2>소개</h2>
     <p>
 IDMS는 Integrated Defense Maintenance System의 약자로서, 방산 장비를 유지보수하기 위해 만들어진 시스템입니다. 각국의 군대는 IDMS를 통해 장비 상태 조회, 고장 이력 관리, 부품 교체 주기 예측, 유지보수 요청 접수까지 한 번에 처리 할 수 있으며, 유지보수가 특별히 중요한 고가의 자산인 방산 자산의 생애주기를 철저히 관리할 수 있습니다.
@@ -26,7 +25,6 @@ IDMS는 Integrated Defense Maintenance System의 약자로서, 방산 장비를 
 |작업자|김승욱|
 |프로젝트명|IDMS|
 |내용|방산 장비 관리 시스템|
-|요약|방산 장비 관리 시스템|
 </section>
 
 <section id="project-plan">
