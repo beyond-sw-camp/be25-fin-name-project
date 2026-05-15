@@ -31,6 +31,7 @@
 
 <section id="project-plan">
     <h2>2. 프로젝트 기획서</h2>
+[프로젝트 기획서](./files/프로젝트 기획서.pdf)
 <details>
   <summary><b>문제정의 & 기획의도</b></summary>
 
