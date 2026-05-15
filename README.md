@@ -65,7 +65,7 @@
 
 <details>
   <summary><b>기술 스택</b></summary>
-ㅇ 프론트엔드  
+ㅇ 프론트엔드<br>
  - HTML, CSS, Vue.js  
 ㅇ 백엔드  
  - Java, Spring Boot, Lombok, Gradle  
